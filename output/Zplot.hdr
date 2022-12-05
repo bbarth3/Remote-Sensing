@@ -1,0 +1,16 @@
+ENVI
+description = {
+  (Plot) Output to Image [Mon Sep 26 20:41:34 2022]}
+samples = 360
+lines   = 255
+bands   = 3
+header offset = 0
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+default stretch = 0.000000 255.000000 linear
+band names = {
+ R (Plot), G (Plot), B (Plot)}

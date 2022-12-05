@@ -1,0 +1,16 @@
+ENVI
+samples = 1989
+lines   = 1459
+bands   = 1
+data type = 1
+interleave = bsq
+file type = ENVI Classification
+header offset = 0
+byte order = 0
+classes = 8
+class names = {
+ Unclassified, Class 1, Class 2, Class 3, Class 4, Class 5, Class 6, 
+ Class 7}
+class lookup = {
+   0,   0,   0, 255,   0,   0,   0, 128,   0,   0,   0, 255, 255, 255,   0,
+   0, 255, 255, 255,   0, 255, 128, 128,   0}

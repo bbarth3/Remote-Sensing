@@ -1,0 +1,24 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 0.250000, y resize factor: 0.250000.
+  [Mon Sep 26 20:47:30 2022]}
+samples = 90
+lines   = 120
+bands   = 4
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 12292
+y start = 6181
+map info = {UTM, 1.000, 1.000, 334977.600, 4692882.000, 2.4000000000e+00, 2.4000000000e+00, 19, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_19N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-69.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+pixel size = {2.40000000e+00, 2.40000000e+00, units=Meters}
+band names = {
+ Resize (Band Math (Band 1 - GS Sharpen:Boston_Logan.dat):Boston_Logan.dat), 
+ Resize (Band Math (Band 2 - GS Sharpen:Boston_Logan.dat):Boston_Logan.dat), 
+ Resize (Band Math (Band 3 - GS Sharpen:Boston_Logan.dat):Boston_Logan.dat), 
+ Resize (Band Math (Band 4 - GS Sharpen:Boston_Logan.dat):Boston_Logan.dat)}

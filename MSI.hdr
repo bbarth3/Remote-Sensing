@@ -1,0 +1,19 @@
+ENVI
+description = {
+ ENVI Spectral Index Result [Mon Oct 17 16:42:55 2022]}
+samples = 256
+lines   = 1270
+bands   = 1
+data type = 4
+interleave = bsq
+file type = ENVI Standard
+header offset = 0
+byte order = 0
+geo points = {
+    1.00000000,    1.00000000,   47.12991995, -115.25400005,
+  257.00000000,    1.00000000,   47.10651855, -115.14252999,
+    1.00000000, 1271.00000000,   46.79301772, -115.35663181,
+  257.00000000, 1271.00000000,   46.76537743, -115.24714468}
+band names = {
+ Moisture Stress Index}
+data ignore value = -1.000000e+34

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RegionsOfInterest version="1.1">
+  <Region name="Dark Pixels" color="255,0,0">
+    <GeometryDef>
+      <CoordSysStr>PROJCS["WGS_1984_UTM_Zone_54N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",141.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]</CoordSysStr>
+      <Polygon>
+        <Exterior>
+          <LinearRing>
+            <Coordinates>
+387682.74246231 3942034.49246231 387701.73742676 3942034.49246231 387701.73742676 3941996.16308594 387682.74246231 3941996.16308594 387682.74246231 3942034.49246231
+            </Coordinates>
+          </LinearRing>
+        </Exterior>
+      </Polygon>
+      <Polygon>
+        <Exterior>
+          <LinearRing>
+            <Coordinates>
+387494.30858694 3942150.78587192 387527.0123291 3942150.78587192 387527.0123291 3942139.57324219 387494.30858694 3942139.57324219 387494.30858694 3942150.78587192
+            </Coordinates>
+          </LinearRing>
+        </Exterior>
+      </Polygon>
+      <Polygon>
+        <Exterior>
+          <LinearRing>
+            <Coordinates>
+387560.65041753 3942082.10806138 387590.55096436 3942082.10806138 387590.55096436 3942069.9609375 387560.65041753 3942069.9609375 387560.65041753 3942082.10806138
+            </Coordinates>
+          </LinearRing>
+        </Exterior>
+      </Polygon>
+    </GeometryDef>
+  </Region>
+</RegionsOfInterest>

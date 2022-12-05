@@ -1,0 +1,14 @@
+ENVI
+samples = 1989
+lines   = 1459
+bands   = 1
+data type = 1
+interleave = bsq
+file type = ENVI Classification
+header offset = 0
+byte order = 0
+classes = 4
+class names = {
+ Unclassified, Undeveloped, Vegetation, Developed}
+class lookup = {
+   0,   0,   0, 255,   0,   0,   0, 128,   0,   0,   0, 255}
